@@ -1,206 +1,280 @@
-fr	en
-Asura	Asura
-Charr	Charr
-Humain	Human
-Norn	Norn
-Sylvari	Sylvari
-Gardien	Guardian
-guerrier	Warrior
-revenant	Revenant
-ingénieur	Engineer
-rôdeur	Ranger
-voleur	Thief
-élémentaliste	Elementalist
-envoûteur	Mesmer
-nécromant	Necromancer
-artificier	Artificer
-bijoutier	Jeweler
-chasseur	Huntsman
-forgeron d'armes	Weaponsmith
-forgeron d'armures	Armorsmith
-illustrateur	Scribe
-maître-queux	Chef
-travailleur du cuir	Leatherworker
-tailleur	Tailor
-forge mystique	Mystic Forge
-donjon	Dungeon
-fractales des Brumes	Fractals of the Mists
-raid	Raid
-deltaplane	Glider
-puzzles de saut	Jumping Puzzles
-JcJ	PvP
-McM	WvW
-JcE	PvE
-Monture	Mount
-Raptor	Raptor
-Frappesol	Springer
-Voldécume	Skimmer
-Chacal	Jackal
-Griffon	Griffon
-Scaraboule	Roller Beetle
-Razziafelis	Warclaw
-Dracaille	Skyscale
-Quaggan	Quaggan
-Krait	Krait
-Skritt	Skritt
-Grawl	Grawl
-Hylek	Hylek
-Ogre	Ogre
-Balthazar	Balthazar
-Dwayna	Dwayna
-Grenth	Grenth
-Dhuum	Dhuum
-Kormir	Kormir
-Lyssa	Lyssa
-Melandru	Melandru
-Abaddon	Abaddon
-Oublié	Forgotten
-Mursaat	Mursaat
-Jotun	Jotun
-Nain	Dwarf
-Aruspice	Seer
-Lancer de crabe	Crab Toss
-Course du Sanctuaire	Sanctum Sprint
-Survie à Sud-Soleil	Southsun Survival
-Bagarre de barils	Keg Brawl
-Primordius	Primordus
-Jormag	Jormag
-Zhaïtan	Zhaitan
-Kralkatorrik	Kralkatorrik
-Aurene	Aurene
-Mordremoth	Mordremoth
-Dragon des abîmes	Deep sea dragon
-maîtrise	Mastery
-défi de héros	Hero challenge
-point de passage	Waypoint
-panorama	Vista
-site remarquable	Point of Interest
-Prieuré de Durmand	Durmand Priory
-Ordre des Soupirs	Order of Whispers
-Veilleurs	Vigil
-Ordre des Lanciers du soleil	Order of the Sunspears
-Ordre des ombres	Order of Shadows
-Héritiers du destin	Destiny's Edge
-Pacte	Pact
-Gardiens de l'Éternité	Dragon's Watch
-Tyrie	Tyria
-Cantha	Cantha
-Elona	Elona
-les Brumes	the Mists
-Viandoberfest	Meatoberfest
-Festibière	Moot
-Rata Sum	Rata Sum
-Citadelle noire	Black Citadel
-Promontoire Divin	Divinity's Reach
-Hoelbrak	Hoelbrak
-le Bosquet	the Grove
-l'Arche du lion	Lion's Arch
-Œil du Nord	Eye of the North
-Skrittsburgh	Skrittsburgh
-Noirfaucon	Ebonhawke
-Vachapulte	Cattlepult
-Nouvel an lunaire	Lunar New Year
-Super Adventure Box	Super Adventure Box
-Foire du Dragon	Dragon Bash
-le Festival des Quatre Vents	Festival of the Four Winds
-L'Ombre du Roi dément	Shadow of the Mad King
-Hivernel	Wintersday
-Steve	Steve
-Arbre Clair	Pale Tree
-Tablette de Ventari	Ventari's Tablet
-Zintl	Zintl
-Mellaggan	Mellaggan
-Koda	Koda
-Grand Nain	Great Dwarf
-Ameyalli	Ameyalli
-Alchimie éternelle	Eternal Alchemy
-Scarlet Bruyère	Scarlet Briar
-Premier-né	Firstborn
-Trahearne	Trahearne
-Riannoc	Riannoc
-Faolain	Faolain
-Caithe	Caithe
-Eir Stegalkin	Eir Stegalkin
-Garm	Garm
-Logan Thackeray	Logan Thackeray
-Rytlock Brimstone	Rytlock Brimstone
-Snaff	Snaff
-Zojja	Zojja
-Kudu	Kudu
-Enqueste	Inquest
-Blish	Blish
-Gorrik	Gorrik
-Taimi	Taimi
-Commandant du Pacte	Pact Commander
-Kasmeer Meade	Kasmeer Meade
-Marjory Delaqua	Marjory Delaqua
-Rox	Rox
-Engelure	Frostbite
-Braham Eirsson	Braham Eirsson
-Canach	Canach
-Ligne de force	Ley line
-Coffre du Lion noir	Black Lion Chest
-Tybalt Senestre	Tybalt Leftpaw
-Sieran	Sieran
-Forgal Kernsson	Forgal Kernsson
-la Fournaise	the Searing
-récolte	Gathering
-récolter un minerai	Mining
-récolter une plante	Harvesting
-récolter un arbre	Logging
-reverence	bow
-pleurer	cry
-danse	dance
-rire	laugh
-montrer	point
-assis	sit
-dormir	sleep
-menace	threaten
-triste	sad
-parler	talk
-mort	defeated
-à terre	downed
-barre de défiance	Defiance bar
-invocation	Invocation
-guilde	Guild
-inventaire	Inventory
-boutique aux gemmes	Gem Store
-karma	Karma
-équipement	Equipment
-niveau	Level
-garde-robe	Wardrobe
-portefeuille	Currency
-noyade	Drowning
-butin	Loot
-bonus de carte	Map bonus reward
-cadeau d'anniversaire	Birthday Gift
-changement d'arme	Weapon swap
-clone	Clone
-combo	Combo
-Commandant	Commander
-coup critique	Critical hit
-coup de grâce	Finisher
-création de personnage	Character creation
-dégâts	Damage
-endurance	Endurance
-esquive	Evade
-exploration	Map completion
-expérience	Experience
-groupe	Party
-hall de guilde	Guild hall
-mentor	Mentor
-lien au compte	Account Bound
-lien à l'âme	Soulbound
-succès	Achievement
-portée	Range
-rater	Miss
-recyclage	Salvage
-réanimation	Revival
-teinture	Dye
-titre	Title
-Dolyak	Dolyak
-Golem	Golem
-M. Kibrille	Mr. Sparkles
-Piteux	Scruffy
-Piteux 2.0	Scruffy 2.0
-pierre de sang	Bloodstone
+fr	en	
+Asura	Asura	
+Charr	Charr	
+Humain	Human	
+Norn	Norn	
+Sylvari	Sylvari	
+Gardien	Guardian	
+guerrier	Warrior	
+revenant	Revenant	
+ingénieur	Engineer	
+rôdeur	Ranger	
+voleur	Thief	
+élémentaliste	Elementalist	
+envoûteur	Mesmer	
+nécromant	Necromancer	
+artificier	Artificer	
+bijoutier	Jeweler	
+chasseur	Huntsman	
+forgeron d'armes	Weaponsmith	
+forgeron d'armures	Armorsmith	
+illustrateur	Scribe	
+maître-queux	Chef	
+travailleur du cuir	Leatherworker	
+tailleur	Tailor	
+forge mystique	Mystic Forge	
+donjon	Dungeon	
+fractales des Brumes	Fractals of the Mists	
+raid	Raid	
+deltaplane	Glider	
+puzzles de saut	Jumping Puzzles	
+JcJ	PvP	
+McM	WvW	
+JcE	PvE	
+Monture	Mount	
+Raptor	Raptor	
+Frappesol	Springer	
+Voldécume	Skimmer	
+Chacal	Jackal	
+Griffon	Griffon	
+Scaraboule	Roller Beetle	
+Razziafelis	Warclaw	
+Dracaille	Skyscale	
+Quaggan	Quaggan	
+Krait	Krait	
+Skritt	Skritt	
+Grawl	Grawl	
+Hylek	Hylek	
+Ogre	Ogre	
+Balthazar	Balthazar	
+Dwayna	Dwayna	
+Grenth	Grenth	
+Dhuum	Dhuum	
+Kormir	Kormir	
+Lyssa	Lyssa	
+Melandru	Melandru	
+Abaddon	Abaddon	
+Oublié	Forgotten	
+Mursaat	Mursaat	
+Jotun	Jotun	
+Nain	Dwarf	
+Aruspice	Seer	
+Lancer de crabe	Crab Toss	
+Course du Sanctuaire	Sanctum Sprint	
+Survie à Sud-Soleil	Southsun Survival	
+Bagarre de barils	Keg Brawl	
+Primordius	Primordus	
+Jormag	Jormag	
+Zhaïtan	Zhaitan	
+Kralkatorrik	Kralkatorrik	
+Aurene	Aurene	
+Mordremoth	Mordremoth	
+Dragon des abîmes	Deep sea dragon	
+maîtrise	Mastery	
+défi de héros	Hero challenge	
+point de passage	Waypoint	
+panorama	Vista	
+site remarquable	Point of Interest	
+Prieuré de Durmand	Durmand Priory	
+Ordre des Soupirs	Order of Whispers	
+Veilleurs	Vigil	
+Ordre des Lanciers du soleil	Order of the Sunspears	
+Ordre des ombres	Order of Shadows	
+Héritiers du destin	Destiny's Edge	
+Pacte	Pact	
+Gardiens de l'Éternité	Dragon's Watch	
+Tyrie	Tyria	
+Cantha	Cantha	
+Elona	Elona	
+les Brumes	the Mists	
+Viandoberfest	Meatoberfest	
+Festibière	Moot	
+Rata Sum	Rata Sum	
+Citadelle noire	Black Citadel	
+Promontoire Divin	Divinity's Reach	
+Hoelbrak	Hoelbrak	
+le Bosquet	the Grove	
+l'Arche du lion	Lion's Arch	
+Œil du Nord	Eye of the North	
+Skrittsburgh	Skrittsburgh	
+Noirfaucon	Ebonhawke	
+Vachapulte	Cattlepult	
+Nouvel an lunaire	Lunar New Year	
+Super Adventure Box	Super Adventure Box	
+Foire du Dragon	Dragon Bash	
+le Festival des Quatre Vents	Festival of the Four Winds	
+L'Ombre du Roi dément	Shadow of the Mad King	
+Hivernel	Wintersday	
+Steve	Steve	
+Arbre Clair	Pale Tree	
+Tablette de Ventari	Ventari's Tablet	
+Zintl	Zintl	
+Mellaggan	Mellaggan	
+Koda	Koda	
+Grand Nain	Great Dwarf	
+Ameyalli	Ameyalli	
+Alchimie éternelle	Eternal Alchemy	
+Scarlet Bruyère	Scarlet Briar	
+Premier-né	Firstborn	
+Trahearne	Trahearne	
+Riannoc	Riannoc	
+Faolain	Faolain	
+Caithe	Caithe	
+Eir Stegalkin	Eir Stegalkin	
+Garm	Garm	
+Logan Thackeray	Logan Thackeray	
+Rytlock Brimstone	Rytlock Brimstone	
+Snaff	Snaff	
+Zojja	Zojja	
+Kudu	Kudu	
+Enqueste	Inquest	
+Blish	Blish	
+Gorrik	Gorrik	
+Taimi	Taimi	
+Commandant du Pacte	Pact Commander	
+Kasmeer Meade	Kasmeer Meade	
+Marjory Delaqua	Marjory Delaqua	
+Rox	Rox	
+Engelure	Frostbite	
+Braham Eirsson	Braham Eirsson	
+Canach	Canach	
+Ligne de force	Ley line	
+Coffre du Lion noir	Black Lion Chest	
+Tybalt Senestre	Tybalt Leftpaw	
+Sieran	Sieran	
+Forgal Kernsson	Forgal Kernsson	
+la Fournaise	the Searing	
+récolte	Gathering	
+récolter un minerai	Mining	
+récolter une plante	Harvesting	
+récolter un arbre	Logging	
+reverence	bow	
+pleurer	cry	
+danse	dance	
+rire	laugh	
+montrer	point	
+assis	sit	
+dormir	sleep	
+menace	threaten	
+triste	sad	
+parler	talk	
+mort	defeated	
+à terre	downed	
+barre de défiance	Defiance bar	
+invocation	Invocation	
+guilde	Guild	
+inventaire	Inventory	
+boutique aux gemmes	Gem Store	
+karma	Karma	
+équipement	Equipment	
+niveau	Level	
+garde-robe	Wardrobe	
+portefeuille	Currency	
+noyade	Drowning	
+butin	Loot	
+bonus de carte	Map bonus reward	
+cadeau d'anniversaire	Birthday Gift	
+changement d'arme	Weapon swap	
+clone	Clone	
+combo	Combo	
+Commandant	Commander	
+coup critique	Critical hit	
+coup de grâce	Finisher	
+création de personnage	Character creation	
+dégâts	Damage	
+endurance	Endurance	
+esquive	Evade	
+exploration	Map completion	
+expérience	Experience	
+groupe	Party	
+hall de guilde	Guild hall	
+mentor	Mentor	
+lien au compte	Account Bound	
+lien à l'âme	Soulbound	
+succès	Achievement	
+portée	Range	
+rater	Miss	
+recyclage	Salvage	
+réanimation	Revival	
+teinture	Dye	
+titre	Title	
+Dolyak	Dolyak	
+Golem	Golem	
+M. Kibrille	Mr. Sparkles	
+Piteux	Scruffy	
+Piteux 2.0	Scruffy 2.0	
+pierre de sang	Bloodstone	
+le Roi Dément	Mad King	
+Exode des Dieux	Exodus of the Gods	
+Blanc-Manteau	White Mantle	
+Vent de jade	Jade Winds	
+Magdaer	Magdaer	
+Sohothin	Sohothin	
+l'Affliction 	the Affliction	
+l'Ascension	the Ascension	
+Fléau des scarabées	Scarab Plague	
+Porte de Komalie	Door of Komalie	
+la Guerre des Guildes	Guild Wars	
+Dagnar Crâne de Pierre	Dagnar Stonepate	
+le Sommet de Pierre	Stone Summit	
+Tortue de siège	Siege Turtle	
+Chaudron brûlant	Searing Cauldron	
+Margonite	Margonite	
+Roi Doric	King Doric	
+Roi Adelbern	King Adelbern	
+Vizir Khilbron	Vizier Khilbron	
+Jora	Jora	
+Svanir	Svanir	
+Destructeur	Destroyer	
+Œil de Janthir	Eye of Janthir	
+Tourment	Torment	
+Abîme de Jade	Jade Maw	
+Gwen Thackeray	Gwen Thackeray	
+Guivre	Wurm	
+Cristal de vision	Vision Crystal	
+Gaheron Feu-de-Bael	Gaheron Baelfire	
+Les Iles de Feu	Fire Island Chain	
+Deldrimor	Deldrimor	
+Mer de Jade	Jade Sea	
+Roche de l'Augure	Augury Rock	
+Forêt de pierre		 Pierre Arborea ?
+Juggernaut	Juggernaut	
+Vabbi	Vabbi	
+Kourna	Kourna	
+Istan	Istan	
+Elona	Elona	
+Palawa Ignacius Joko	Palawa Ignacious Joko	
+Palawadan	Palawadan	
+Ministre Caudécus	Minister Caudecus	
+Prophète	Seer	
+Titan	Titan	
+Archemorus	Archemorus	
+Saint Viktor	Saint Viktor	
+Zéphyrites	Zephyrites	
+centaure	Centaur	
+Outre-monde	Underworld	
+Océan infini	Unending Ocean	
+Tengu	Tengu	
+Kuunavang	Kuunavang	
+Luxon	Luxon	
+Sentinelle de jade	Jade Construct	
+Orr	Orr	
+karma	Karma	
+laurier	Laurel	
+trèfle mystique	Mystic Clover	
+éclat d'esprit	Spirit Shard	
+bouteille de vin élonien	Bottle of Elonian Wine	
+boule d'ectoplasme	Glob of Ectoplasm	
+pièce mystique	Mystic Coin	
+Chak	Chak	
+Triple Guivre	Triple Wurm	
+Repli du Dragon	Dragon's Stand	
+Marionnette détraquée	Twisted Marionette	
+Tornade d'acarides	Dust Mite Twister	
+Moa	Moa	
+Baguette de princesse	Princess Wand	
+Enveloppe de chance	Lucky Envelope	
+Mawdrey	Mawdrey	
+Omelette d'œufs de griffon	Griffon Egg Omelet	
+Pek Rakt Grag	Pek Rakt Grag	
+Seigneur Faren	Lord Faren	
